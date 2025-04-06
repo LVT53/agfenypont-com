@@ -110,6 +110,7 @@ button {
     font-size: var(--paraSize);
     border: none;
     border-radius: 0.625rem;
+    cursor: pointer;
 }
 
 button a {
